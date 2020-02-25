@@ -1,2 +1,2 @@
 # WhiskiPlaisir
-SUCEPUTEBien à vous
+Bien à vous
